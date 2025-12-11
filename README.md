@@ -15,6 +15,6 @@ Trainee AI Engineer – NewVision Software (March 2025–Present)
 * Pipeline Design, Evaluation Frameworks & FastAPI Services
 
 📬 **Connect With Me**
-📌LinkedIn: linkedin.com/in/shreesudame, 
-📌Email: shreesudame3@gmail.com
+* LinkedIn: linkedin.com/in/shreesudame
+* Email: shreesudame3@gmail.com
 
